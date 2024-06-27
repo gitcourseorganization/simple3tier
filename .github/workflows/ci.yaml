@@ -18,4 +18,4 @@ jobs:
           with:
             file: ./Dockerfile.fe
             push: true
-            tags: devagunay/gitcourserepo/:frontend
+            tags: devagunay/gitcourserepo:frontend
